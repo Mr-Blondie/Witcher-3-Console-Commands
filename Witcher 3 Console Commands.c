@@ -1131,7 +1131,7 @@ additem('Frog mask')
 additem('Luiza mask') - Luisa la Valette's Mask
 additem('Witch Hunter mask') - Voorhis' Mask
 additem('Dandelions crimson mask') - Crimson Avenger Mask
-additem('Geralt robbery mask') - not visible, but 2 slots on it 🙂
+additem('Geralt robbery mask') - not visible, but 2 slots on it ğŸ™‚
 additem('Guest mask man 01')
 additem('Guest mask man 02')
 additem('Guest mask man 03')
@@ -3143,10 +3143,10 @@ for more carryweight add the buffs from all 3 types of bags - use rmvabl(name) t
 addabl(HorseBag1)
 addabl(HorseBag2)
 addabl(HorseBag3)
-additem('Horse Bag 3') – largest bag
-additem('Horse Saddle 4') – best saddle
-additem('Horse Blinder 3') – best blinder
-staminapony – unlimited stamina horse
+additem('Horse Bag 3') â€“ largest bag
+additem('Horse Saddle 4') â€“ best saddle
+additem('Horse Blinder 3') â€“ best blinder
+staminapony â€“ unlimited stamina horse
 instantMount('horse') - puts player on a horse
 }
 
@@ -7791,7 +7791,7 @@ You can find there a very good heavy golden Toussaint armor, but be honest you w
 xy(2552,1355) heavy Toussaint armor 
 xy(2670,1355) Joss 
 xy(2587,1300) Three Little Bears 
-xy(2530,1280) Big Bad Wolf at grandmama�s house 
+xy(2530,1280) Big Bad Wolf at grandmama’s house 
 xy(2460,1455) Three Little Pigs 
 xy(2540,1405) Longlocks tower 
 xy(2605,1500) Little Flint Girl 
