@@ -1,4 +1,4 @@
-<h1>How to open W3 Console Commands.java?</h1>
+<h1>How to open Witcher 3 Console Commands.java?</h1>
 <ol>
 <li><a href="https://notepad-plus-plus.org/download/v7.6.1.html" target="_blank" rel="noopener">Download Notepad++</a></li>
 <li>Open with Notepad++</li>
