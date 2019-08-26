@@ -6,6 +6,3 @@
 <li>Press "Alt+0"</li>
 </ol>
 <p><img src="https://i.imgur.com/h8xxC74.png" width="776" height="400" /></p>
-
-<p><iframe src="https://giphy.com/embed/8McNH1aXZnVyE" width="480" height="258" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-<p><a href="https://giphy.com/gifs/its-a-trap-admiral-ackbar-8McNH1aXZnVyE">via GIPHY</a></p>
