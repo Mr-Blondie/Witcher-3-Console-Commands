@@ -16899,7 +16899,10 @@ urlchecker.org###ads_notify
 @@||vjs.zencdn.net/4.12/video.js$script
 @@||jwpsrv.com/library/5V3tOP97EeK2SxIxOUCPzg.js$script
 gaara-fr.com###ga-skin-top
+
 youtube.com##.ytp-ce-element-show
 knowyourmeme.com###leaderboard
 yandex.*##.ImagesViewerApp-FooterContent
 yandex.*##div.incut_inserted_yes.incut_js_inited.i-bem.incut_position_page-fixed.incut_type_direct.incut
+mail.yandex.*##.mail-DirectLinePlaceholder
+/^https?:\/\/mail\.yandex\.[^\s]{125,}/$script,1p
